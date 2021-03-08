@@ -12,16 +12,3 @@ body {
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
 }
-
-#container {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-}
-
-.toast {
-    background-color: aquamarine;
-    color: white;
-    border-radius: 5px;
-    padding: 2rem;
-}
