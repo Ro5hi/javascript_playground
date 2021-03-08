@@ -13,5 +13,5 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
 * Background Changer
 * Dark Mode Toggle
 * Image Carousel
-* Sound Board
-* Zoom Effect
+* Lofi Sound Board
+* Image Zoom Effect
